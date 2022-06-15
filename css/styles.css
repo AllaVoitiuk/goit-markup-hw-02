@@ -11,7 +11,7 @@ body {
 }
 
 .colortext {
-    color: #2196F3
+    color:var(--color-accent);
 }
 .logo {
     color: #212121;
@@ -21,7 +21,14 @@ body {
 }
 .site-nav.link:hover,
 .site-nav.link:focus {
-    color: #2196F3
+    color:var(--color-accent);
+}
+.adr-nav {
+    color: #757575;
+}
+.adr-nav:hover,
+.adr-nav:focus {
+    color:var(--color-accent);
 }
 
 
