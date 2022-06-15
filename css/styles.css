@@ -1,6 +1,6 @@
 :root {
     --color-accent: #2196F3;
-    
+    --color-fon: #2F303A;
 }
 
 body {
@@ -31,6 +31,12 @@ body {
 .adr-nav:hover,
 .adr-nav:focus {
     color:var(--color-accent);
+}
+.hero {
+    background-color: var(--color-fon);
+}
+.hero-title {
+    color: #FFFFFF;
 }
 
 
