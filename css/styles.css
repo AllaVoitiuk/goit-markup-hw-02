@@ -1,3 +1,8 @@
+:root {
+    --color-accent: #2196F3;
+    
+}
+
 body {
     background-color: #FFFFFF;
     color: #757575;
@@ -11,6 +16,15 @@ body {
 .logo {
     color: #212121;
 }
+.site-nav.link {
+    color: #212121;
+}
+.site-nav.link:hover,
+.site-nav.link:focus {
+    color: #2196F3
+}
+
+
 
 /* Цвета шрифтов */
 /* color: #2196F3; 
