@@ -11,6 +11,7 @@ body {
     background-color: var(--white-color);
     color: var(--primary-text-color);
     font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
 }
 
 /* logo */
@@ -19,6 +20,9 @@ body {
 }
 .logo {
     color: var(--title-text-color);
+    font-family: 'Raleway';
+        font-size: 26px;
+        line-height: 1.2;
 }
 
 .footer.logo {
@@ -37,6 +41,10 @@ body {
 .button {
     color: var(--white-color);
     background-color: var(--color-accent);
+    font-family: inherit;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.9;
 }
 .button.primary {
     color: var(--white-color);
@@ -62,6 +70,11 @@ body {
 /* link */
  .link {
     color: var(--title-text-color);
+    font-family: inherit;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
  }
 .link:hover,
 .link:focus {
