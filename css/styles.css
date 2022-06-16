@@ -37,11 +37,18 @@ body {
     color: var(--white-color);
     background-color: var(--color-accent);
 }
+
 /* button portfolio */
 .button.secondary {
     color: var(--title-text-color);
     background-color: var(--secondary-bg-color);
 }
+.button.secondary:hover,
+.button.secondary:focus {
+    color: var(--white-color);
+    background-color: var(--color-accent);
+}
+
 /* title */
 .section-title {
     color: var(--title-text-color);
