@@ -41,8 +41,8 @@ body {
 
 /* button */
 .button {
-    color: #FFFFFF;
-    background-color: var(--color-accent);
+    color:#FFFFFF;
+    background-color:var(--color-accent);
 }
 
 /* title */
@@ -62,8 +62,8 @@ body {
 .adr-link {
     color: var(--primary-text-color);
  }
-.adr-nav:hover,
-.adr-nav:focus {
+.adr-link:hover,
+.adr-link:focus {
     color: var(--color-accent);
 }
 
