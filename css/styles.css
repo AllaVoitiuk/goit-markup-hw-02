@@ -66,6 +66,9 @@ body {
 .link:focus {
     color: var(--color-accent);
 }
+.footer.link {
+    color: var(--white-color);
+}
 
 .site-nav .link.current {
     color: var(--color-accent);
