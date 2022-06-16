@@ -19,6 +19,9 @@ body {
 .logo {
     color: var(--title-text-color);
 }
+.bottom logo {
+    color: var(--white-color);
+}
 
 /* herro */
 .hero {
@@ -75,9 +78,6 @@ body {
     color: var(--color-accent);
 }
 
-/* .section.link {
-    color: var(--primary-text-color);
-} */
 p {
     color: var(--primary-text-color);
 }
