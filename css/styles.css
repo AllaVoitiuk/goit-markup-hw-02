@@ -4,6 +4,7 @@
     --color-accent: #2196F3;
     --color-fon: #2F303A;
     --white-color: #FFFFFF;
+    --secondary-bg-color: #F5F4FA;
     }
 
 body {
@@ -32,7 +33,16 @@ body {
     color: var(--white-color);
     background-color: var(--color-accent);
 }
+.button.primary {
+    color: var(--white-color);
+    background-color: var(--color-accent);
+}
 
+.button.secondary {
+    color: var(--title-text-color);
+    background-color: var(--secondary-bg-color);
+
+}
 /* title */
 .section-title {
     color: var(--title-text-color);
@@ -47,7 +57,7 @@ body {
     color: var(--color-accent);
 }
 
-.site-nav .link .current {
+.site-nav .link.current {
     color: var(--color-accent);
 }
 
