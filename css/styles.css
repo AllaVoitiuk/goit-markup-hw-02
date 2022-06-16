@@ -19,7 +19,7 @@ body {
 .logo {
     color: var(--title-text-color);
 }
-.bottom logo {
+.bottom.logo {
     color: var(--white-color);
 }
 
