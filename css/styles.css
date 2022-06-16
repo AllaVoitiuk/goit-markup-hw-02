@@ -41,8 +41,8 @@ body {
 
 /* button */
 .button {
-    color:#FFFFFF;
-    background-color:var(--color-accent);
+    color: #FFFFFF;
+    background-color: var(--color-accent);
 }
 
 /* title */
