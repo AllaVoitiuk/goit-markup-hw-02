@@ -70,6 +70,10 @@ body {
 .footer-link {
     color: var(--white-color);
 }
+.footer-link:hover,
+.footer-link:focus {
+    color: var(--color-accent);
+}
 
 .site-nav .link.current {
     color: var(--color-accent);
