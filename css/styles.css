@@ -75,6 +75,10 @@ body {
     color: var(--color-accent);
 }
 
+.section.link {
+    color: var(--primary-text-color);
+}
+
 /* footer */
 footer {
     color: var(--white-color);
