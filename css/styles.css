@@ -3,45 +3,33 @@
     --title-text-color: #212121;
     --color-accent: #2196F3;
     --color-fon: #2F303A;
-    --primary-bg-color: #FFFFFF;
+    --white-color: #FFFFFF;
     }
 
 body {
-    background-color: var(--primary-bg-color);
+    background-color: var(--white-color);
     color: var(--primary-text-color);
 }
 
+/* logo */
 .colortext {
     color:var(--color-accent);
 }
 .logo {
     color: var(--title-text-color);
 }
-/* .site-nav .link {
-    color: #212121;
-}
-.site-nav .link:hover,
-.site-nav .link:focus {
-    color:#2196F3;
-}
-.adr-nav {
-    color: #757575;
-}
-.adr-nav:hover,
-.adr-nav:focus {
-    color:#2196F3;
-} */
+
 /* herro */
 .hero {
     background-color: var(--color-fon);
 }
 .hero-title {
-    color: #FFFFFF;
+    color: var(--white-color);
 }
 
 /* button */
 .button {
-    color: #FFFFFF;
+    color: var(--white-color);
     background-color: var(--color-accent);
 }
 
@@ -56,6 +44,10 @@ body {
  }
 .link:hover,
 .link:focus {
+    color: var(--color-accent);
+}
+
+.site-nav .link.current {
     color: var(--color-accent);
 }
 
