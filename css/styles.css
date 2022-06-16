@@ -1,18 +1,20 @@
 :root {
+    --primary-text-color:#757575;
+    --title-text-color: #212121;
     --color-accent: #2196F3;
     --color-fon: #2F303A;
 }
 
 body {
     background-color: #FFFFFF;
-    color: #757575;
+    color: var(--primary-text-color);
 }
 
 .colortext {
-    color:#2196F3;
+    color:var(--color-accent);
 }
 .logo {
-    color: #212121;
+    color: var(--title-text-color);
 }
 /* .site-nav .link {
     color: #212121;
@@ -36,22 +38,22 @@ body {
 }
 
 .section-title {
-    color: #212121;
+    color: var(--title-text-color);
 }
  .link {
-    color: #212121;
+    color: var(--title-text-color);
  }
 .link:hover,
 .link:focus {
-    color: #2196F3;
+    color: var(--color-accent);
 }
 
 .adr-link {
-    color: #757575;
+    color: var(--primary-text-color);
  }
 .adr-nav:hover,
 .adr-nav:focus {
-     color: #2196F3;
+     color:var(--color-accent);
 
 
 /* Цвета шрифтов */
