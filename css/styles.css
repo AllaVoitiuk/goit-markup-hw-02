@@ -76,6 +76,10 @@ body {
 }
 
 /* footer */
+footer {
+    color: var(--white-color);
+    background-color: var(--color-fon);
+}
 
 
      
