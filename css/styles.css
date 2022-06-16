@@ -75,7 +75,10 @@ body {
     color: var(--color-accent);
 }
 
-.section.link {
+/* .section.link {
+    color: var(--primary-text-color);
+} */
+p {
     color: var(--primary-text-color);
 }
 
