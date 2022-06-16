@@ -19,7 +19,8 @@ body {
 .logo {
     color: var(--title-text-color);
 }
-.bottom.logo {
+
+.footer.logo {
     color: var(--white-color);
 }
 
