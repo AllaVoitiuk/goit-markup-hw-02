@@ -37,11 +37,10 @@ body {
     color: var(--white-color);
     background-color: var(--color-accent);
 }
-
+/* button portfolio */
 .button.secondary {
     color: var(--title-text-color);
     background-color: var(--secondary-bg-color);
-
 }
 /* title */
 .section-title {
@@ -68,6 +67,8 @@ body {
 .adr-link:focus {
     color: var(--color-accent);
 }
+
+/* footer */
 
 
      
