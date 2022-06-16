@@ -6,8 +6,6 @@
 body {
     background-color: #FFFFFF;
     color: #757575;
-    height: 100%;
-    font-family: 'Montserrat', sans-serif;
 }
 
 .colortext {
@@ -16,7 +14,7 @@ body {
 .logo {
     color: #212121;
 }
-.site-nav.link {
+/* .site-nav .link {
     color: #212121;
 }
 .site-nav .link:hover,
@@ -29,7 +27,7 @@ body {
 .adr-nav:hover,
 .adr-nav:focus {
     color:#2196F3;
-}
+} */
 .hero {
     background-color: var(--color-fon);
 }
@@ -40,7 +38,20 @@ body {
 .section-title {
     color: #212121;
 }
+ .link {
+    color: #212121;
+ }
+.link:hover,
+.link:focus {
+    color: #2196F3;
+}
 
+.adr-link {
+    color: #757575;
+ }
+.adr-nav:hover,
+.adr-nav:focus {
+     color: #2196F3;
 
 
 /* Цвета шрифтов */
