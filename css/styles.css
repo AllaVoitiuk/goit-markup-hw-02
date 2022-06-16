@@ -47,7 +47,7 @@ body {
     color: var(--color-accent);
 }
 
-.site-nav .link.current {
+.site-nav.link.current {
     color: var(--color-accent);
 }
 
