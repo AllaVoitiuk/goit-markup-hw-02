@@ -120,6 +120,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    text-decoration: none;
     
 .link:hover,
 .link:focus {
@@ -132,8 +133,6 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: var(--white-color);
-    background-color: var(--color-fon);
 }
 
 .site-nav .link.current {
@@ -166,10 +165,10 @@ p {
 }
 
 /* footer */
-/* .wrapper {
+.wrapper {
     color: var(--white-color);
     background-color: var(--color-fon);
-} */
+} 
 
      
 
