@@ -23,6 +23,7 @@ body {
     font-family: 'Raleway';
         font-size: 26px;
         line-height: 1.2;
+        text-decoration: none;
 }
 
 .footer.logo {
