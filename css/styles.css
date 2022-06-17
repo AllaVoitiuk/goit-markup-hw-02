@@ -131,6 +131,7 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
+    color: var(--white-color);
     text-decoration: none;
 }
 
@@ -166,7 +167,7 @@ p {
 
 /* footer */
 footer {
-    color: var(--white-color);
+    
     background-color: var(--color-fon);
 }
 
