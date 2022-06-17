@@ -106,6 +106,7 @@ body {
 }
 
 .section-link .text {
+    color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
@@ -114,6 +115,7 @@ body {
 /* link */
 .link {
     color: var(--title-text-color);
+    font-family: inherit;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
