@@ -131,7 +131,7 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: var(--white-color);
+    
     text-decoration: none;
 }
 
@@ -148,9 +148,9 @@ body {
     color: var(--color-accent);
 }
 /* text */
-p {
+/* p {
     color: var(--primary-text-color);
-}
+} */
 
 .feature-list .text {
     font-size: 14px;
@@ -167,7 +167,7 @@ p {
 
 /* footer */
 footer {
-    
+    color: var(--white-color);
     background-color: var(--color-fon);
 }
 
