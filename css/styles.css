@@ -120,8 +120,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    text-decoration: none;
- }
+    
 .link:hover,
 .link:focus {
     color: var(--color-accent);
@@ -165,7 +164,7 @@ p {
 }
 
 /* footer */
-.wrapper .wrapper-link {
+.wrapper {
     color: var(--white-color);
     background-color: var(--color-fon);
 }
