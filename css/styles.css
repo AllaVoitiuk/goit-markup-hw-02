@@ -162,15 +162,16 @@ p {
     line-height: 1.19;
     letter-spacing: 0.03em;
 }
-.section-link {
+
+/* .section-link {
     text-decoration: none;
-}
+} */
 
 /* footer */
-footer {
+/* footer {
     color: var(--white-color);
     background-color: var(--color-fon);
-}
+} */
 
 
      
