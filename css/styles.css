@@ -165,11 +165,14 @@ p {
 }
 
 /* footer */
-.wrapper {
+/* .wrapper {
     color: var(--white-color);
     background-color: var(--color-fon);
-} 
-
+}  */
+footer {
+    color: var(--white-color);
+    background: var(--color-fon);
+}
 
      
 
