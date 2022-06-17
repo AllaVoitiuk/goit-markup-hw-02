@@ -119,7 +119,7 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    
+}  
 .link:hover,
 .link:focus {
     color: var(--color-accent);
@@ -142,6 +142,7 @@ body {
 .adr-link:focus {
     color: var(--color-accent);
 }
+
 /* text */
 p {
     color: var(--primary-text-color);
@@ -160,10 +161,10 @@ p {
 }
 
 /* footer */
-footer {
+.wrapper {
     color: var(--white-color);
     background-color: var(--color-fon);
-} 
+}
 
      
 
