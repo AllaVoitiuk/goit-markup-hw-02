@@ -52,16 +52,19 @@ body {
     font-weight: 700;
     font-size: 16px;
     line-height: 1.9;
+    cursor: pointer;
 }
 .button.primary {
     color: var(--white-color);
     background-color: var(--color-accent);
+    cursor: pointer;
 }
 
 /* button portfolio */
 .button.secondary {
     color: var(--title-text-color);
     background-color: var(--secondary-bg-color);
+    cursor: pointer;
 }
 .button.secondary:hover,
 .button.secondary:focus {
