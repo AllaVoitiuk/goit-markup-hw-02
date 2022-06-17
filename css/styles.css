@@ -112,14 +112,14 @@ body {
 }
 
 /* link */
- .link {
+.link {
     color: var(--title-text-color);
-    font-family: inherit;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-}  
+} 
+
 .link:hover,
 .link:focus {
     color: var(--color-accent);
@@ -138,16 +138,13 @@ body {
 .adr-link {
     color: var(--primary-text-color);
 }
+
 .adr-link:hover,
 .adr-link:focus {
     color: var(--color-accent);
 }
 
 /* text */
-p {
-    color: var(--primary-text-color);
-} 
-
 .feature-list .text {
     font-size: 14px;
     line-height: 1.7;
