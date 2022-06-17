@@ -131,7 +131,6 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    
     text-decoration: none;
 }
 
@@ -161,8 +160,10 @@ p {
 .team .text {
     font-size: 16px;
     line-height: 1.19;
-    text-align: center;
     letter-spacing: 0.03em;
+}
+.section-link {
+    text-decoration: none;
 }
 
 /* footer */
