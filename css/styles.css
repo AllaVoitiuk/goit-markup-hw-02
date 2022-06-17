@@ -133,7 +133,6 @@ body {
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
-    color: var(--white-color);
 }
 
 .site-nav .link.current {
@@ -166,8 +165,8 @@ p {
 }
 
 /* footer */
-.wrapper {
-    
+.wrapper .wrapper-link {
+    color: var(--white-color);
     background-color: var(--color-fon);
 }
 
