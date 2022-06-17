@@ -102,6 +102,13 @@ body {
     letter-spacing: 0.06em;
 }
 
+.section-link .text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;
+}
+
 /* link */
  .link {
     color: var(--title-text-color);
@@ -116,8 +123,12 @@ body {
     color: var(--color-accent);
 }
 
-.footer-link {
+.wrapper-link {
     color: var(--white-color);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
 }
 
 .site-nav .link.current {
@@ -131,9 +142,22 @@ body {
 .adr-link:focus {
     color: var(--color-accent);
 }
-
+/* text */
 p {
     color: var(--primary-text-color);
+}
+
+.feature-list .text {
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+}
+
+.team .text {
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
 }
 
 /* footer */
