@@ -164,7 +164,7 @@ p {
 }
 
 /* footer */
-.wrapper {
+footer {
     color: var(--white-color);
     background-color: var(--color-fon);
 }
