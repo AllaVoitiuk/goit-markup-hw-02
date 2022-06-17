@@ -24,7 +24,6 @@ body {
     font-family: 'Raleway';
         font-size: 26px;
         line-height: 1.2;
-        text-decoration: none;
 }
 
 .footer.logo {
@@ -107,7 +106,6 @@ body {
 }
 
 .section-link .text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.9;
     letter-spacing: 0.03em;
@@ -128,8 +126,6 @@ body {
 }
 
 .wrapper-link {
-    font-family: 'Roboto';
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -141,8 +137,7 @@ body {
 
 .adr-link {
     color: var(--primary-text-color);
-    text-decoration: none;
- }
+}
 .adr-link:hover,
 .adr-link:focus {
     color: var(--color-accent);
@@ -165,7 +160,7 @@ p {
 }
 
 /* footer */
-.wrapper {
+footer {
     color: var(--white-color);
     background-color: var(--color-fon);
 } 
