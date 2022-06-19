@@ -72,6 +72,7 @@ body {
     color: var(--title-text-color);
     background-color: var(--secondary-bg-color);
     cursor: pointer;
+    text-decoration: none;
 }
 .button.secondary:hover,
 .button.secondary:focus {
