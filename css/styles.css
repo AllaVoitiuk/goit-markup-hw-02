@@ -177,7 +177,7 @@ ul {
     color: var(--color-accent);
 }
 
-.wrapper .first-link {
+.first-link {
     color: var(--white-color);
     font-family: 'Roboto';
     font-style: normal;
