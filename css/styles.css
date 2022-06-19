@@ -177,8 +177,11 @@ ul {
     color: var(--color-accent);
 }
 
-.wrapper-link.first {
+.wrapper .first-link {
     color: var(--white-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 1.7;
 }
 
 .adr-nav .adr-link {
