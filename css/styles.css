@@ -79,6 +79,10 @@ body {
     background-color: var(--color-accent);
 }
 
+.button.secondary:active {
+    color: var(--color-accent);
+}
+
 /* title */
 .section-title {
     color: var(--title-text-color);
