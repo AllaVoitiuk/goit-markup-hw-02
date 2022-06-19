@@ -130,7 +130,7 @@ body {
     color: var(--color-accent);
 }
 
-.wrapper-link {
+.wrapper .wrapper-link {
     color: var(--white-color);
     font-family: 'Roboto';
     font-style: normal;
