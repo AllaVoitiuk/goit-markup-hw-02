@@ -140,7 +140,7 @@ body {
     color: var(--color-accent);
 }
 
-.adr-link {
+.adr-nav .adr-link {
     color: var(--primary-text-color);
     line-height: 16px;
     letter-spacing: 0.02em;
