@@ -82,6 +82,7 @@ body {
 
 .button.secondary.active {
     background-color: var(--color-accent);
+    color: var(--white-color);
 }
 
 ul {
