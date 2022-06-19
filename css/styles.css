@@ -84,6 +84,10 @@ body {
     background-color: var(--color-accent);
 }
 
+ul {
+    list-style: none;
+}
+
 /* title */
 .section-title {
     color: var(--title-text-color);
