@@ -179,6 +179,10 @@ ul {
 
 .first-li {
     color: #FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 1.7;
+    text-decoration: none;
 }
 
 .adr-nav .adr-link {
