@@ -107,12 +107,14 @@ body {
     font-size: 18px;
     line-height: 2.0;
     letter-spacing: 0.06em;
+    text-decoration: none;
 }
 
 .section-link .text {
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.9;
+    text-decoration: none;
 }
 
 /* link */
