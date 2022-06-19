@@ -142,6 +142,8 @@ body {
 
 .adr-link {
     color: var(--primary-text-color);
+    line-height: 16px;
+    letter-spacing: 0.02em;
     text-decoration: none;
 }
 
