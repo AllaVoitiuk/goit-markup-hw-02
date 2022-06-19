@@ -80,7 +80,7 @@ body {
     background-color: var(--color-accent);
 }
 
-.button.secondary:active {
+.button.secondary.active {
     background-color: var(--color-accent);
     color: var(--white-color);
 }
@@ -166,6 +166,10 @@ ul {
     font-style: normal;
     line-height: 1.7;
     text-decoration: none;
+}
+
+.wrapper .first-link {
+    color: var(--white-color);
 }
 
 /* .wrapper-link:hover,
