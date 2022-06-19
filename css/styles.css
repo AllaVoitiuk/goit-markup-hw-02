@@ -160,16 +160,12 @@ ul {
     color: var(--color-accent);
 }
 
-.wrapper-link {
+.wrapper .wrapper-link {
     color: rgba(255, 255, 255, 0.6);
     font-family: 'Roboto';
     font-style: normal;
     line-height: 1.7;
     text-decoration: none;
-}
-
-.wrapper .first {
-    color: var(--white-color);
 }
 
 /* .wrapper-link:hover,
@@ -179,6 +175,10 @@ ul {
 
 .site-nav .link.current {
     color: var(--color-accent);
+}
+
+.list .first-li {
+    color: var(--white-color);
 }
 
 .adr-nav .adr-link {
