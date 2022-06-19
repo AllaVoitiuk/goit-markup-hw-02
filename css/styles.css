@@ -112,8 +112,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 2.0;
-    letter-spacing: 0.06em;
-    text-decoration: none;
+    letter-spacing: 0.06em;    
 }
 
 .section-link .text {
@@ -122,9 +121,9 @@ body {
     line-height: 1.9;    
 }
 
-p {
+/* p {
     text-decoration: none;
-}
+} */
 
 .visually-hidden {
     position: absolute;
