@@ -12,6 +12,7 @@ body {
     background-color: var(--white-color);
     color: var(--primary-text-color);
     font-family: Roboto, sans-serif;
+    font-size: 14px;
     letter-spacing: 0.03em;
 }
 
@@ -84,15 +85,12 @@ body {
         font-size: 36px;
         line-height: 1.17;
         text-align: center;
-        letter-spacing: 0.03em;
 }
 
 .feature-list .title {
     color: var(--title-text-color);
     font-weight: 700;
-    font-size: 14px;
     line-height: 1.14;
-    letter-spacing: 0.03em;
 }
 
 .team .title {
@@ -100,7 +98,6 @@ body {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
 }
 
 .section-link .title {
@@ -115,7 +112,6 @@ body {
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.9;
-    letter-spacing: 0.03em;
 }
 
 /* link */
@@ -123,7 +119,6 @@ body {
     color: var(--title-text-color);
     font-family: inherit;
     font-weight: 500;
-    font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
@@ -138,9 +133,7 @@ body {
     color: var(--white-color);
     font-family: 'Roboto';
     font-style: normal;
-    font-size: 14px;
     line-height: 1.7;
-    letter-spacing: 0.03em;
 }
 
 .site-nav .link.current {
@@ -159,15 +152,12 @@ body {
 
 /* text */
 .feature-list .text {
-    font-size: 14px;
     line-height: 1.7;
-    letter-spacing: 0.03em;
 }
 
 .team .text {
     font-size: 16px;
     line-height: 1.19;
-    letter-spacing: 0.03em;
 }
 
 /* footer */
