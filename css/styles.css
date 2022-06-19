@@ -138,6 +138,11 @@ body {
     text-decoration: none;
 }
 
+.wrapper-link:hover,
+.wrapper-link:focus {
+    color: var(--color-accent);
+}
+
 .site-nav .link.current {
     color: var(--color-accent);
 }
