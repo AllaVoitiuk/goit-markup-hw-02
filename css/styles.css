@@ -168,10 +168,6 @@ ul {
     text-decoration: none;
 }
 
-.wrapper .first-link {
-    color: var(--white-color);
-}
-
 /* .wrapper-link:hover,
 .wrapper-link:focus {
     color: var(--color-accent);
