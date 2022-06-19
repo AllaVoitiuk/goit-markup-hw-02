@@ -168,21 +168,17 @@ ul {
     text-decoration: none;
 }
 
-/* .wrapper-link:hover,
+.wrapper-link:hover,
 .wrapper-link:focus {
     color: var(--color-accent);
-} */
+} 
 
 .site-nav .link.current {
     color: var(--color-accent);
 }
 
-.first-li {
-    color: #FFFFFF;
-    font-family: 'Roboto';
-    font-style: normal;
-    line-height: 1.7;
-    text-decoration: none;
+.wrapper-link.first {
+    color: var(--white-color);
 }
 
 .adr-nav .adr-link {
