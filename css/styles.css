@@ -80,7 +80,7 @@ body {
 }
 
 .button.secondary:active {
-    color: var(--color-accent);
+    background-color: var(--color-accent);
 }
 
 /* title */
