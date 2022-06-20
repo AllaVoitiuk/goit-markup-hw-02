@@ -187,10 +187,10 @@ ul {
 
 .adr-nav .adr-link {
     color: var(--primary-text-color);
+    font-weight: 500;
     line-height: 16px;
     letter-spacing: 0.02em;
     text-decoration: none;
-    font-weight: 500;
 }
 
 .adr-link:hover,
